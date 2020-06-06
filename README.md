@@ -1,2 +1,2 @@
-# Calc_C-
+# Calc_C++
 Calculadora simples realizada em C++
